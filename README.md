@@ -1,4 +1,4 @@
-Scrapy EXIF Crawler (GPS Analysis)
+Scrapy EXIF Crawler
 =========
 
 Scrapy EXIF Crawler is a python template which uses [The Scrapy Framework](http://scrapy.org) to automatically crawl all pages from a given URL and extract EXIF information from any scraped picture. 
