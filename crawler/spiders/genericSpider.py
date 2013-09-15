@@ -34,8 +34,6 @@ class genericSpider(CrawlSpider):
 
     def post_process(self, spider):
         log.msg('Starting post_process function...', level=log.INFO)
-        self.processMismatch()
-
 
     def CALLBACK_processImage(self, url, item):
 
